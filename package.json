@@ -4,7 +4,7 @@
     "express": "^4.17.3",
     "express-handlebars": "^6.0.4",
     "jquery": "^3.6.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.22",
     "npm": "^8.6.0"
   },
   "name": "desafio-mercado-web",
